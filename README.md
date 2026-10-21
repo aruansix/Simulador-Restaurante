@@ -1,2 +1,2 @@
 # Simulador-Restaurante
-Simulador Restaurante projeto fianl
+Simulador Restaurante projeto final
