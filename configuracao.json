@@ -1,0 +1,5 @@
+{
+  "tempoSimulacaoMinutos": 360,
+  "salao": { "quantidadeMesas": 12 },
+  "equipe": { "quantidadeGarcons": 3 }
+}

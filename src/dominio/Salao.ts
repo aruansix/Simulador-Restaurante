@@ -1,0 +1,4 @@
+// Classe puramente passiva. Não possui timers nem agenda eventos.
+export class Salao {
+    // TODO: Implementar atributos (encapsulados) e métodos
+}
